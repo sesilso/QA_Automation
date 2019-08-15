@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="EbayAutomatedTesting" duration-ms="400520" started-at="2019-08-14T23:55:51Z" finished-at="2019-08-15T00:02:32Z">
+    <groups>
+    </groups>
+    <test name="ChromeEbayOrderTest" duration-ms="202529" started-at="2019-08-14T23:55:51Z" finished-at="2019-08-14T23:59:14Z">
+      <class name="pageTest.ChromeEbayOrderTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:pageTest.ChromeEbayOrderTest@1a5c39e]" name="SetUp" is-config="true" duration-ms="5703" started-at="2019-08-14T23:55:51Z" finished-at="2019-08-14T23:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ArticleOrderTest()[pri:0, instance:pageTest.ChromeEbayOrderTest@1a5c39e]" name="ArticleOrderTest" duration-ms="186433" started-at="2019-08-14T23:55:57Z" finished-at="2019-08-14T23:59:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArticleOrderTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:pageTest.ChromeEbayOrderTest@1a5c39e]" name="TearDown" is-config="true" duration-ms="10285" started-at="2019-08-14T23:59:04Z" finished-at="2019-08-14T23:59:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- pageTest.ChromeEbayOrderTest -->
+    </test> <!-- ChromeEbayOrderTest -->
+    <test name="FirefoxEbayOrderTest" duration-ms="197798" started-at="2019-08-14T23:59:14Z" finished-at="2019-08-15T00:02:32Z">
+      <class name="pageTest.FirefoxEbayOrderTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:pageTest.FirefoxEbayOrderTest@1610302]" name="SetUp" is-config="true" duration-ms="20338" started-at="2019-08-14T23:59:14Z" finished-at="2019-08-14T23:59:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="ArticleOrderTest()[pri:0, instance:pageTest.FirefoxEbayOrderTest@1610302]" name="ArticleOrderTest" duration-ms="155898" started-at="2019-08-14T23:59:34Z" finished-at="2019-08-15T00:02:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArticleOrderTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:pageTest.FirefoxEbayOrderTest@1610302]" name="TearDown" is-config="true" duration-ms="21546" started-at="2019-08-15T00:02:10Z" finished-at="2019-08-15T00:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- pageTest.FirefoxEbayOrderTest -->
+    </test> <!-- FirefoxEbayOrderTest -->
+  </suite> <!-- EbayAutomatedTesting -->
+</testng-results>
