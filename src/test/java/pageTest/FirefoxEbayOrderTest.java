@@ -7,7 +7,7 @@ import pageFactory.PageCheckout;
 import pageFactory.PageFilteredResult;
 import pageFactory.PageGeneralResult;
 import pageFactory.PageHome;
-import pageFactory.borrar;
+
 
 import org.testng.annotations.BeforeTest;
 
