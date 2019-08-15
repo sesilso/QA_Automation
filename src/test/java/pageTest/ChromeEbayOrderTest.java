@@ -14,7 +14,6 @@ import pageFactory.borrar;
 public class ChromeEbayOrderTest extends Chrome{
   
 	PageHome pageHome;
-	borrar obj;
 	PageGeneralResult pageResult;
 	PageFilteredResult pageResultFiltro;
 	PageCheckout pageCheckOut;
