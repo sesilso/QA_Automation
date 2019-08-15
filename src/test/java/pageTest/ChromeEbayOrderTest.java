@@ -9,7 +9,7 @@ import pageFactory.PageGeneralResult;
 import pageFactory.PageHome;
 import pageFactory.PageCheckout;
 import pageFactory.PageFilteredResult;
-import pageFactory.borrar;
+
 
 public class ChromeEbayOrderTest extends Chrome{
   
