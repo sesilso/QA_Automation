@@ -18,7 +18,6 @@ import org.testng.annotations.AfterTest;
 public class FirefoxEbayOrderTest extends Firefox{
 	
 	PageHome pageHome;
-	borrar obj;
 	PageGeneralResult pageResult;
 	PageFilteredResult pageResultFiltro;
 	PageCheckout pageCheckOut;
